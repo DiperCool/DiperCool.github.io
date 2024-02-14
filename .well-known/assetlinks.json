@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "dd.com.goodgames.goodgames",
+    "sha256_cert_fingerprints":
+    ["AE:42:DA:B9:6F:9A:10:17:BA:38:5F:9E:44:78:F8:D6:BB:C3:4A:30:4A:3D:87:6A:25:A3:D4:C3:46:59:EB:B7"]
+  }
+}]
